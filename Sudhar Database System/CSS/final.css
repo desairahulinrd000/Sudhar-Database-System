@@ -1,0 +1,43 @@
+body{
+	background-color:black;
+	color: white;
+	text-align: center;
+	font-family: Arial;
+}
+.text40px
+{
+	font-size: 40px;
+}
+.text30px
+{
+	font-size: 20px;
+}
+.table
+{
+	text-align: center;
+}
+.tableh
+{
+	text-align: left;
+	padding: 5px;
+}
+.tablec
+{
+	text-align: left;
+	padding: 5px;
+}
+.error
+{
+	color: red;
+}
+.link
+{
+	text-decoration: none;
+	font-size: 20px;
+	color: white;
+}
+.link:hover
+{
+	color: blue;
+	text-decoration: underline;
+}

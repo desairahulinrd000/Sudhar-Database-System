@@ -1,0 +1,38 @@
+*{
+	background-color: black;
+	color:white;
+	font-family: Arial;
+}
+.text35px
+{
+	font-size: 35px;
+	text-align: center;
+}
+.para
+{
+	font-size: 25px;
+}
+.reflink
+{
+	display: block;
+	text-decoration: none;
+	text-align: center;
+	padding: 20px;
+	border-radius: 15px;
+}
+.href_button
+{
+	display:block;
+	margin: 20px auto;
+	font-size: 15px;
+	border-radius: 15px;
+}
+.href_button:hover,.reflink:hover
+{
+	color: black;
+	background-color: white;;
+}
+.footer_i
+{
+	text-align: center;
+}

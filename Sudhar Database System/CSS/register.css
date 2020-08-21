@@ -1,0 +1,60 @@
+body
+{
+	margin: 0 auto;
+	padding: 0;
+	background-color:black;
+	color: white;
+	text-align: center;
+	font-family: Arial;
+}
+#u_title
+{
+	padding: 10px;
+}
+#user_info
+{
+	margin: 10px;
+	padding: 10px;
+}
+#user_info .u_inputs
+{
+	padding: 5px;
+	margin: 10px auto;
+	border-radius: 20px;
+	transition: width 2s, height 4s;
+
+}
+#user_info .u_inputs:hover
+{
+	width:200px;
+	height: 30px;
+}
+#user_info .u_labels:hover
+{
+	font-size: 20px;
+}
+#user_info .u_labels
+{
+	padding: 5px;
+	margin: 10px auto;
+}
+#user_info .main_button
+{
+	border-radius: 15px;
+	background-color: black;
+	color: white;
+	margin-left: 50px;
+	height: 40px;
+	width: 90px;
+}
+#user_info .main_button:hover
+{
+	background-color: white;
+	color: black;
+	height: 50px;
+	width: 100px;
+}
+.required_star
+{
+	color: red;
+}
